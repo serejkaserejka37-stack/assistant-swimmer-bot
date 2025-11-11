@@ -1,0 +1,4 @@
+TELEGRAM_BOT_TOKEN=8592300728:AAF5o2AFFU5_GMZC9bY-zvKNkvCLQQAkxpU
+DATABASE_URL=sqlite:///./assistant_swimmer.db
+ENVIRONMENT=development
+DEBUG=True
